@@ -1,0 +1,2 @@
+from .about import AboutCommand
+ 
